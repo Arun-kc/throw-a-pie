@@ -306,7 +306,7 @@ export default function App() {
               <Link isExternal href="https://www.linkedin.com/in/arun-kc/">
                 <FaLinkedin size={50}/>
               </Link>
-              <Link isExternal href="https://github.com/Arun-kc">
+              <Link isExternal href="https://twitter.com/arunkc97">
                 <FaTwitter size={50}/>
               </Link>
             </Stack>
